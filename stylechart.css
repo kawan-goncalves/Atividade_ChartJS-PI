@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: #E5E5E5;
+}
+.linha{
+    border: 2px solid darkblue;
+}
+.linha.barra{
+    border-left: 1px;
+}
+.chart-container{
+    height:40vh; 
+    width:40vw;
+}
